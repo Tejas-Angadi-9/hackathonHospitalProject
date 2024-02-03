@@ -22,6 +22,6 @@ public class TC_001_SearchDentists extends testBase {
         dp.setFilterFirstOption();
         Thread.sleep(1000);
         dp.setExperienceFilter();
-        dp.setExperienceFirstOption();
+        dp.setExperienceFirstOption(); 
     }
 }
